@@ -1,1 +1,1 @@
-# js_xy_mapper_m4l
+# JS based M4L XY Mapper based on default Live XY plugin interface. 
